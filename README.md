@@ -1,4 +1,4 @@
-# Projeto CSharp
+# Projeto .NET
 
 Projeto desenvolvido junto com professores experts contratados pela plataforma da Dio.me
 
